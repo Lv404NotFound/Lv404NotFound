@@ -1,60 +1,18 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lv404NotFound's Profile</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            margin: 0;
-            padding: 0;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-        .media-player {
-            margin: 20px 0;
-            text-align: center;
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-            white-space: pre;
-        }
-        .playlist {
-            margin-top: 10px;
-            text-align: left;
-        }
-        .content {
-            max-width: 800px;
-            background-color: #fff;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-            border-radius: 8px;
-            text-align: center;
-        }
-        h2 {
-            color: #333;
-        }
-    </style>
-</head>
-<body>
-    <div class="media-player">
-        <div>╭——————————————————————————————╮</div>
-        <div>　　　　　　　　　██████　　Now Playing: TWRP - Hidden Potential</div>
-        <div>　　　　　　　　　██   ►  ██</div>
-        <div>　　　　　　　　　██████　　0:45　▬▬▬▬◯▬▬▬▬▬▬▬▬▬▬▬▬▬</div>
-        <div>╰——————————————————————————————╯</div>
+<div class="media-player">
+        <div>╭———————————————————————————————————————————————————╮</div>
+        <div>　██████　　Now Playing: TWRP - Hidden Potential</div>
+        <div>　██ ►██</div>
+        <div>  ██████　　0:45　▬▬▬▬◯▬▬▬▬▬▬▬▬▬▬▬▬▬</div>
+        <div>╰———————————————————————————————————————————————————╯</div>
         <div class="playlist">
-            <div>╭———————————————————╮</div>
+            <div>╭———————————————————————————————————————————————╮</div>
             <div>　　Playlist:</div>
             <div>　　1. Katana 0 - Sneaky Driver</div>
             <div>　　2. Metal Gear Rising - Revengeance</div>
             <div>　　3. VA-11 HALL-A - Your Love is a Drug</div>
             <div>　　4. Neon White - Glass Ocean</div>
             <div>　　5. Devil May Cry 5 - Devil Trigger</div>
-            <div>╰———————————————————╯</div>
+            <div>╰———————————————————————————————————————————————╯</div>
         </div>
     </div>
     <div class="content">
@@ -70,7 +28,8 @@
         <p>I am proficient in various game development tools and technologies, including Unity, Godot, C#, Blender, Maya, Photoshop, and Aseprite.</p>
 
         <h2>Future Goals</h2>
-        <p>I hope to one day create a chill open-world game with rich lore where players can wander, learn, and enjoy a relaxing experience. I also aspire to learn how to make original soundtracks to enhance the immersive experience of my games.</p>
+        <p>I hope to one day create a chill open-world game with rich lore where players can wander, learn, and enjoy a relaxing experience. I also aspire to learn how to make original soundtracks to enhance the 
+         immersive experience of my games.</p>
 
         <h2>Top 5 Games</h2>
         <p>1. <strong>Void Stranger</strong> - For its intriguing gameplay and unique mechanics.</p>
