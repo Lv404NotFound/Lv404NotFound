@@ -1,18 +1,3 @@
-# Lv404NotFound's Profile
-
-╭——————————————————————————————╮
-　　　　　　　　　██████　　Now Playing: TWRP - Hidden Potential
-　　　　　　　　　██   ►  ██
-　　　　　　　　　██████　　0:45　▬▬▬▬◯▬▬▬▬▬▬▬▬▬▬▬▬▬
-　　　　　　　　 ╰——————————————————————————————╯
-　　　　　　　　　　　　　　　 ╭———————————————————╮
-　　　　　　　　　　　　　　　　　Playlist:
-　　　　　　　　　　　　　　　　1. Katana 0 - Sneaky Driver
-　　　　　　　　　　　　　　　　2. Metal Gear Rising - Revengeance
-　　　　　　　　　　　　　　　　3. VA-11 HALL-A - Your Love is a Drug
-　　　　　　　　　　　　　　　　4. Neon White - Glass Ocean
-　　　　　　　　　　　　　　　　5. Devil May Cry 5 - Devil Trigger
-　　　　　　　　　　　　　　　 ╰———————————————————╯
 
 ## About Me
 
@@ -22,9 +7,9 @@ I'm currently working on a game on my own and I'm looking for an artist to colla
 
 ## My Projects
 
-**Memory House:** A fast-paced memory puzzle game created for 🎃 Halloween Game Jam 2024 🎃 using Unity and Photoshop. [Link]
+**Memory House:** A fast-paced memory puzzle game created for 🎃 Halloween Game Jam 2024 🎃 using Unity and Photoshop.
 
-**Sleep Tight:** A 3D pixel art puzzle game developed for Pirate Software - Game Jam 15 using Unity, Blender, Aseprite, and Photoshop. [Link]
+**Sleep Tight:** A 3D pixel art puzzle game developed for Pirate Software - Game Jam 15 using Unity, Blender, Aseprite, and Photoshop.
 
 ## Skills and Tools
 
