@@ -11,6 +11,8 @@ I'm currently working on a game on my own and I'm looking for an artist to colla
 
 **Sleep Tight:** A 3D pixel art puzzle game developed for Pirate Software - Game Jam 15 using Unity, Blender, Aseprite, and Photoshop.
 
+**Bad Burrito Brunch:** A 3D pixel art puzzle game developed for Pirate Software - Game Jam 16 using Unity, Blender.
+
 ## Skills and Tools
 
 I am proficient in various game development tools and technologies, including Unity, Godot, C#, Blender, Maya, Photoshop, and Aseprite.
