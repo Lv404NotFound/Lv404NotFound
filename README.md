@@ -1,34 +1,37 @@
-
 ## About Me
 
-Hey there! I'm Lv404NotFound, also known as Louis-Victor Gimenez. By day, I'm a system engineer, but in my free time, I'm a passionate game developer. I'm a huge fan of Warhammer 40k, and I love playing as the Orks and the Salamanders. I'm also really into F1, especially the mechanics behind it. I started creating games through game jams, and my group and I have already participated in two of them. It's been an amazing experience, and I can't wait to continue making more games and sharing them with the community.
+Hey there! I'm Lv404NotFound, also known as Louis-Victor Gimenez. By day I'm a cloud engineer, and in my free time I'm an indie game developer. I'm a huge fan of Warhammer 40k (I play Orks and Salamanders) and I love F1, especially the strategy and mechanics behind it. I got into making games through game jams, and my crew and I have taken part in three so far. It's been an amazing experience and I can't wait to keep making games and sharing them with the community.
 
-I'm currently working on a game on my own and I'm looking for an artist to collaborate with. If you're interested, please feel free to reach out!
+I'm currently working on a game on my own and I'm looking for an artist to collaborate with. If you're interested, feel free to reach out!
 
-## My Projects
+## My Games
 
-**Memory House:** A fast-paced memory puzzle game created for 🎃 Halloween Game Jam 2024 🎃 using Unity and Photoshop.
+**Rusty Spoon Rail** (in development): a chaotic cooking game set inside a moving train. Built solo with Godot 4 and a full Blender pipeline for the 3D models.
 
-**Sleep Tight:** A 3D pixel art puzzle game developed for Pirate Software - Game Jam 15 using Unity, Blender, Aseprite, and Photoshop.
+**Voidscript** (in development): a 2D top-down puzzle game where you write code to control the game elements and solve each room. Made with Godot.
 
-**Bad Burrito Brunch:** A 3D pixel art puzzle game developed for Pirate Software - Game Jam 16 using Unity, Blender.
+**Memory House**: a fast-paced memory puzzle game made for Halloween Game Jam 2024 with Unity and Photoshop. [Play it](https://soniyck.itch.io/memory-house)
+
+**Sleep Tight**: a 3D pixel art puzzle game made for Pirate Software Game Jam 15 with Unity, Blender, Aseprite and Photoshop. [Play it](https://lv404notfound.itch.io/sleep-tight)
+
+**Bad Burrito Brunch**: a stealth puzzle game made for Pirate Software Game Jam 16 with Unity and Blender. [Play it](https://soniyck.itch.io/thefartone)
 
 ## Skills and Tools
 
-I am proficient in various game development tools and technologies, including Unity, Godot, C#, Blender, Maya, Photoshop, and Aseprite.
+Unity, Godot, GDScript, C#, Blender, Maya, Photoshop and Aseprite for games. Microsoft 365, Azure and FortiGate for the day job.
 
 ## Future Goals
 
-I hope to one day create a chill open-world game with rich lore where players can wander, learn, and enjoy a relaxing experience. I also aspire to learn how to make original soundtracks to enhance the immersive experience of my games.
+I hope to one day create a chill open-world game with rich lore, where players can wander, learn and enjoy a relaxing experience. I'd also like to learn how to make original soundtracks to make my games even more immersive.
 
 ## Top 5 Games
 
-1. **Void Stranger** - For its intriguing gameplay and unique mechanics.
-2. **Outer Wilds** - For its captivating exploration and storytelling.
-3. **Warhammer 40,000: Space Marine** - For its intense action and connection to my favorite universe.
-4. **Warhammer 40,000: Rogue Trader** - For its strategic depth and immersive universe.
-5. **Katana ZERO** - For its fast-paced action and stylish presentation.
+1. **Kenshi**: you can get your legs eaten off by a pack of dogs and the game just shrugs.
+2. **Outer Wilds**: the one game that made me emotional about a solar system.
+3. **Void Stranger**: makes you feel like a genius and an idiot in the same five minutes.
+4. **Katana ZERO**: die 200 times, look impossibly cool doing it every single time.
+5. **Ctrl Alt Ego**: an immersive sim puzzler where the best solution is whichever one you didn't expect to work.
 
-## Contact Me
+## Find Me
 
-Feel free to reach out if you have any questions, feedback, or collaboration ideas. You can contact me via email at louisvictorgimenez@gmail.com or follow me on LinkedIn.
+Portfolio: [lv404.dev](https://lv404.dev) · Games: [lv404notfound.itch.io](https://lv404notfound.itch.io/)
